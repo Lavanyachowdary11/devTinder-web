@@ -28,6 +28,9 @@
 - New page to see all my connections
 - New page to see all my requests
 - Feature - Accept/Reject Connection Request
+- Send/Ignore the user card from the feed
+- Signup the user
+- E2E Testing
 
 
 
