@@ -1,6 +1,6 @@
 import { Outlet, useNavigate } from "react-router-dom";
 import Footer from "./Footer"
-import Navbar from "./Navbar";
+import Navbar from "./NavBar";
 import { BASE_URL } from "../utils/constants"
 import { useDispatch, useSelector } from "react-redux";
 import { addUser } from "../utils/userSlice";
